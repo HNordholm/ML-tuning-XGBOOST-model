@@ -1,0 +1,1 @@
+I’m diving into boat sales data to figure out what factors drive views on boat listings. I’ll be exploring the data visually, analyzing correlations, and tuning an XGBoost model to predict how many views a listing might get.
